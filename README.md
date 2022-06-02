@@ -13,6 +13,7 @@
 * C. E. Tsourakakis, Fast Counting of Triangles in Large Real Networks: Algorithms and Laws, ICDM, 2008.
 
 ## Dynamic graphs: laws and patterns
+
 * J. Leskovec, L. Backstrom, R. Kumar, A. Tomkins. Microscopic Evolution of Social Networks. KDD 2008.
 * J. Leskovec, D. Chakrabarti, J. Kleinberg, C. Faloutsos. Realistic, Mathematically Tractable Graph Generation and Evolution, Using Kronecker Multiplication. ECML/PKDD, 2005. Won 'test of time' award in ECML/PKDD (Porto, Sept. 2015).
 * M. McGlohon, L. Akoglu, C. Faloutsos. Weighted Graphs and Disconnected Components: Patterns and a Generator. ACM SIGKDD, 2008.
@@ -21,16 +22,13 @@
 * Jure Leskovec, Jon Kleinberg, Christos Faloutsos Graphs over Time: Densification Laws, Shrinking Diameters and Possible Explanations, KDD 2005, Chicago, IL, USA
 
 ## Random Walks, Pagerank, HITS
-In class:
 
-Brin, S. and Page, L. (1998) The Anatomy of a Large-Scale Hypertextual Web Search Engine. In: Seventh International World-Wide Web Conference (WWW 1998), April 14-18, 1998, Brisbane, Australia. [citations: 3692 - 15th most cited paper at Citeseer]
-*** Hanghang Tong, Christos Faloutsos, and Jia-Yu Pan. Fast Random Walk with Restart and Its Application. ICDM 2006. Longer version (Technical report)
-Other readings:
-
-*** Page, Lawrence and Brin, Sergey and Motwani, Rajeev and Winograd, Terry (1999). The PageRank Citation Ranking: Bringing Order to the Web. Technical Report. Stanford InfoLab. [citations: 2434]
-Taher H. Haveliwala. Topic-Sensitive PageRank: A Context-Sensitive Ranking Algorithm for Web Search. IEEE Transactions on Knowledge and Data Engineering, 15(4):784-796, 2003.
-*** Jon M. Kleinberg. Authoritative Sources in a Hyperlinked Environment. Journal of the ACM (JACM), 46(5):604-632, 1999.
-Peter Doyle and James Laurie Snell. Random Walks and Electric Networks, volume 22. Mathematical Association America, New York, 1984. Book.
+* Brin, S. and Page, L. (1998) The Anatomy of a Large-Scale Hypertextual Web Search Engine. In: Seventh International World-Wide Web Conference (WWW 1998), April 14-18, 1998, Brisbane, Australia.
+* Hanghang Tong, Christos Faloutsos, and Jia-Yu Pan. Fast Random Walk with Restart and Its Application. ICDM 2006. Longer version (Technical report)
+* Page, Lawrence and Brin, Sergey and Motwani, Rajeev and Winograd, Terry (1999). The PageRank Citation Ranking: Bringing Order to the Web. Technical Report. Stanford InfoLab. 
+* Taher H. Haveliwala. Topic-Sensitive PageRank: A Context-Sensitive Ranking Algorithm for Web Search. IEEE Transactions on Knowledge and Data Engineering, 15(4):784-796, 2003.
+* Jon M. Kleinberg. Authoritative Sources in a Hyperlinked Environment. Journal of the ACM (JACM), 46(5):604-632, 1999.
+* Peter Doyle and James Laurie Snell. Random Walks and Electric Networks, volume 22. Mathematical Association America, New York, 1984. Book.
 
 ## Node Classification: Belief Propagation
 In class:
