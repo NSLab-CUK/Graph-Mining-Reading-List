@@ -13,12 +13,12 @@
 * C. E. Tsourakakis, Fast Counting of Triangles in Large Real Networks: Algorithms and Laws, ICDM, 2008.
 
 ## Dynamic graphs: laws and patterns
-*** J. Leskovec, L. Backstrom, R. Kumar, A. Tomkins. Microscopic Evolution of Social Networks. KDD 2008.
-** J. Leskovec, D. Chakrabarti, J. Kleinberg, C. Faloutsos. Realistic, Mathematically Tractable Graph Generation and Evolution, Using Kronecker Multiplication. ECML/PKDD, 2005. Won 'test of time' award in ECML/PKDD (Porto, Sept. 2015).
-M. McGlohon, L. Akoglu, C. Faloutsos. Weighted Graphs and Disconnected Components: Patterns and a Generator. ACM SIGKDD, 2008.
-R. Kumar, J. Novak, A. Tomkins. Structure and evolution of online social networks. KDD, 2006.
-U Kang, M. McGlohon, L. Akoglu, and C. Faloutsos. Patterns on the Connected Components of Terabyte-Scale Graphs. ICDM, 2010.
-Jure Leskovec, Jon Kleinberg, Christos Faloutsos Graphs over Time: Densification Laws, Shrinking Diameters and Possible Explanations, KDD 2005, Chicago, IL, USA
+* J. Leskovec, L. Backstrom, R. Kumar, A. Tomkins. Microscopic Evolution of Social Networks. KDD 2008.
+* J. Leskovec, D. Chakrabarti, J. Kleinberg, C. Faloutsos. Realistic, Mathematically Tractable Graph Generation and Evolution, Using Kronecker Multiplication. ECML/PKDD, 2005. Won 'test of time' award in ECML/PKDD (Porto, Sept. 2015).
+* M. McGlohon, L. Akoglu, C. Faloutsos. Weighted Graphs and Disconnected Components: Patterns and a Generator. ACM SIGKDD, 2008.
+* R. Kumar, J. Novak, A. Tomkins. Structure and evolution of online social networks. KDD, 2006.
+* U Kang, M. McGlohon, L. Akoglu, and C. Faloutsos. Patterns on the Connected Components of Terabyte-Scale Graphs. ICDM, 2010.
+* Jure Leskovec, Jon Kleinberg, Christos Faloutsos Graphs over Time: Densification Laws, Shrinking Diameters and Possible Explanations, KDD 2005, Chicago, IL, USA
 
 ## Random Walks, Pagerank, HITS
 In class:
