@@ -31,35 +31,26 @@
 * Peter Doyle and James Laurie Snell. Random Walks and Electric Networks, volume 22. Mathematical Association America, New York, 1984. Book.
 
 ## Node Classification: Belief Propagation
-In class:
 
-Shashank Pandit, Duen Horng Chau, Samuel Wang, and Christos Faloutsos. NetProbe: A Fast and Scalable System for Fraud Detection in Online Auction Networks. In Proceedings of the 16th International Conference on World Wide Web (WWW), Alberta, Canada, pages 201-210, 2007.
-Danai Koutra, Tai-You Ke, U Kang, Duen Horng (Polo) Chau, Hsing-Kuo Kenneth Pao, and Christos Faloutsos. Unifying Guilt-by-Association Approaches: Theorems and Fast Algorithms. ECML PKDD, Athens, Greece, Sep. 2011. Easier to read chapter 4 of "Exploring and Making Sense of Large Graphs." (dissertation).
-Other readings:
-
-Jonathan S. Yedidia, William T. Freeman, and Yair Weiss. Understanding Belief Propagation and its Generalizations. In Exploring artificial intelligence in the new millennium, pages 239-269, 2003.
-Wolfgang Gatterbauer, Stephan Guennemann, Danai Koutra, Christos Faloutsos. Linearized and Single-Pass Belief Propagation. Proceedings of the VLDB Endowment, Volume 8(4) (VLDB'15), August 2015. (Chapter 5 of "Exploring and Making Sense of Large Graphs." (dissertation))
-Duen Horng Chau, Aniket Kittur, Jason I. Hong, and Christos Faloutsos. Apolo: Making Sense of Large Network Data by Combining Rich User Interaction and Machine Learning. CHI 2011.
+* Shashank Pandit, Duen Horng Chau, Samuel Wang, and Christos Faloutsos. NetProbe: A Fast and Scalable System for Fraud Detection in Online Auction Networks. In Proceedings of the 16th International Conference on World Wide Web (WWW), Alberta, Canada, pages 201-210, 2007.
+* Danai Koutra, Tai-You Ke, U Kang, Duen Horng (Polo) Chau, Hsing-Kuo Kenneth Pao, and Christos Faloutsos. Unifying Guilt-by-Association Approaches: Theorems and Fast Algorithms. ECML PKDD, Athens, Greece, Sep. 2011. Easier to read chapter 4 of "Exploring and Making Sense of Large Graphs." (dissertation).
+* Jonathan S. Yedidia, William T. Freeman, and Yair Weiss. Understanding Belief Propagation and its Generalizations. In Exploring artificial intelligence in the new millennium, pages 239-269, 2003.
+* Wolfgang Gatterbauer, Stephan Guennemann, Danai Koutra, Christos Faloutsos. Linearized and Single-Pass Belief Propagation. Proceedings of the VLDB Endowment, Volume 8(4) (VLDB'15), August 2015. (Chapter 5 of "Exploring and Making Sense of Large Graphs." (dissertation))
+* Duen Horng Chau, Aniket Kittur, Jason I. Hong, and Christos Faloutsos. Apolo: Making Sense of Large Network Data by Combining Rich User Interaction and Machine Learning. CHI 2011.
 
 ## Node Classification: Semi-Supervised Learning
-In class:
 
-Avrim Blum and Shuchi Chawla. Learning from Labeled and Unlabeled Data Using Graph Mincuts. In Proceedings of the 18th International Conference on Machine Learning, pages 19–26. Morgan Kaufmann, San Francisco, CA, 2001.
-Dengyong Zhou, Bernhard Schölkopf, Thomas Hofmann. Semi-supervised Learning on Directed Graphs. NIPS 2004: 1633-1640
-Other readings:
-
-Xiaojin Zhu. Semi-Supervised Learning Literature Survey, 2006. Survey.
+* Avrim Blum and Shuchi Chawla. Learning from Labeled and Unlabeled Data Using Graph Mincuts. In Proceedings of the 18th International Conference on Machine Learning, pages 19–26. Morgan Kaufmann, San Francisco, CA, 2001.
+* Dengyong Zhou, Bernhard Schölkopf, Thomas Hofmann. Semi-supervised Learning on Directed Graphs. NIPS 2004: 1633-1640
+* Xiaojin Zhu. Semi-Supervised Learning Literature Survey, 2006. Survey.
 
 ## Node Similarity
-In class:
 
-*** Glen Jeh and Jennifer Widom. SimRank: A Measure of Structural-Context Similarity. In Proceedings of the 8th ACM International Conference on Knowledge Discovery and Data Mining (SIGKDD), Edmonton, Alberta, pages 538-543. ACM, 2002.
-Laura Zager and George Verghese. Graph Similarity Scoring and Matching. Applied Mathematics Letters, 21(1):86-94, 2008.
-Other readings:
-
-** Ioannis Antonellis, Hector Garcia Molina, and Chi Chao Chang. 2008. Simrank++: query rewriting through link analysis of the click graph. Proc. VLDB Endow. 1, 1 (August 2008), 408-421.
-Weiren Yu, Xuemin Lin, Wenjie Zhang, Lijun Chang, and Jian Pei. More is Simpler: Effectively and Efficiently Assessing Node-Pair Similarities Based on Hyperlinks. Proceedings of the VLDB Endowment, 7(1):13-24, 2013.
-** Cuiping Li, Jiawei Han, Guoming He, Xin Jin, Yizhou Sun, Yintao Yu, and Tianyi Wu. Fast Computation of SimRank for Static and Dynamic Information Networks. In Proceedings of the 13th International Conference on Extending Database Technology, EDBT'10, pages 465-476, New York, NY, USA, 2010.
+* Glen Jeh and Jennifer Widom. SimRank: A Measure of Structural-Context Similarity. In Proceedings of the 8th ACM International Conference on Knowledge Discovery and Data Mining (SIGKDD), Edmonton, Alberta, pages 538-543. ACM, 2002.
+* Laura Zager and George Verghese. Graph Similarity Scoring and Matching. Applied Mathematics Letters, 21(1):86-94, 2008.
+* Ioannis Antonellis, Hector Garcia Molina, and Chi Chao Chang. 2008. Simrank++: query rewriting through link analysis of the click graph. Proc. VLDB Endow. 1, 1 (August 2008), 408-421.
+* Weiren Yu, Xuemin Lin, Wenjie Zhang, Lijun Chang, and Jian Pei. More is Simpler: Effectively and Efficiently Assessing Node-Pair Similarities Based on Hyperlinks. Proceedings of the VLDB Endowment, 7(1):13-24, 2013.
+* Cuiping Li, Jiawei Han, Guoming He, Xin Jin, Yizhou Sun, Yintao Yu, and Tianyi Wu. Fast Computation of SimRank for Static and Dynamic Information Networks. In Proceedings of the 13th International Conference on Extending Database Technology, EDBT'10, pages 465-476, New York, NY, USA, 2010.
 
 ## Graph Similarity
 In class:
