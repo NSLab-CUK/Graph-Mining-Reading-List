@@ -1,15 +1,16 @@
 # Graph Mining Reading List
 
 ## Static graphs: laws and patterns
-Deepayan Chakrabarti and Christos Faloutsos. Graph Mining: Laws, Tools and Case Studies, Morgan Claypool, 2012.
-D. Chakrabarti and C. Faloutsos, Graph Mining: Laws, Generators and Algorithms, in ACM Computing Surveys, 38(1).
-Reka Albert and Albert-Laszlo Barabasi. Statistical mechanics of complex networks, Reviews of Modern Physics, 74, 47 (2002).
-Power Laws and Rich-Get-Richer Phenomena. From the book Networks, Crowds, and Markets: Reasoning about a Highly Connected World. By David Easley and Jon Kleinberg. Cambridge University Press, 2010.
-M. Faloutsos, P. Faloutsos, C. Faloutsos. On Power-Law Relationships of the Internet Topology. In Proc. SIGCOMM, 1999.
-M.E.J. Newman. Power laws, Pareto distributions and Zipf's law. Contemporary Physics 46(5), 323-351, 2005.
-S. Goel, A. Broder, E. Gabrilovich, B. Pang. Anatomy of the Long Tail: Ordinary People with Extraordinary Tastes. In Proc. WSDM, 2010.
-U Kang, Charalampos E. Tsourakakis, Ana Paula Appel, Christos Faloutsos, and Jure Leskovec, Radius Plots for Mining Tera-byte Scale Graphs: Algorithms, Patterns, and Observations, SIAM International Conference on Data Mining (SDM) 2010, Columbus, Ohio, USA.
-C. E. Tsourakakis, Fast Counting of Triangles in Large Real Networks: Algorithms and Laws, ICDM, 2008.
+
+* Deepayan Chakrabarti and Christos Faloutsos. Graph Mining: Laws, Tools and Case Studies, Morgan Claypool, 2012.
+* D. Chakrabarti and C. Faloutsos, Graph Mining: Laws, Generators and Algorithms, in ACM Computing Surveys, 38(1).
+* Reka Albert and Albert-Laszlo Barabasi. Statistical mechanics of complex networks, Reviews of Modern Physics, 74, 47 (2002).
+* Power Laws and Rich-Get-Richer Phenomena. From the book Networks, Crowds, and Markets: Reasoning about a Highly Connected World. By David Easley and Jon Kleinberg. Cambridge University Press, 2010.
+* M. Faloutsos, P. Faloutsos, C. Faloutsos. On Power-Law Relationships of the Internet Topology. In Proc. SIGCOMM, 1999.
+* M.E.J. Newman. Power laws, Pareto distributions and Zipf's law. Contemporary Physics 46(5), 323-351, 2005.
+* S. Goel, A. Broder, E. Gabrilovich, B. Pang. Anatomy of the Long Tail: Ordinary People with Extraordinary Tastes. In Proc. WSDM, 2010.
+* U Kang, Charalampos E. Tsourakakis, Ana Paula Appel, Christos Faloutsos, and Jure Leskovec, Radius Plots for Mining Tera-byte Scale Graphs: Algorithms, Patterns, and Observations, SIAM International Conference on Data Mining (SDM) 2010, Columbus, Ohio, USA.
+* C. E. Tsourakakis, Fast Counting of Triangles in Large Real Networks: Algorithms and Laws, ICDM, 2008.
 
 ## Dynamic graphs: laws and patterns
 *** J. Leskovec, L. Backstrom, R. Kumar, A. Tomkins. Microscopic Evolution of Social Networks. KDD 2008.
