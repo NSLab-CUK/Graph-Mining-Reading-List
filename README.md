@@ -19,16 +19,16 @@
 * M. McGlohon, L. Akoglu, C. Faloutsos. Weighted Graphs and Disconnected Components: Patterns and a Generator. ACM SIGKDD, 2008.
 * R. Kumar, J. Novak, A. Tomkins. Structure and evolution of online social networks. KDD, 2006.
 * U Kang, M. McGlohon, L. Akoglu, and C. Faloutsos. Patterns on the Connected Components of Terabyte-Scale Graphs. ICDM, 2010.
-* Jure Leskovec, Jon Kleinberg, Christos Faloutsos Graphs over Time: Densification Laws, Shrinking Diameters and Possible Explanations, KDD 2005, Chicago, IL, USA
+* Jure Leskovec, Jon Kleinberg, Christos Faloutsos Graphs over Time: Densification Laws, Shrinking Diameters and Possible Explanations, KDD 2005, Chicago, IL, USA.
 
 ## Random Walks, Pagerank, HITS
 
 * Brin, S. and Page, L. (1998) The Anatomy of a Large-Scale Hypertextual Web Search Engine. In: Seventh International World-Wide Web Conference (WWW 1998), April 14-18, 1998, Brisbane, Australia.
-* Hanghang Tong, Christos Faloutsos, and Jia-Yu Pan. Fast Random Walk with Restart and Its Application. ICDM 2006. Longer version (Technical report)
+* Hanghang Tong, Christos Faloutsos, and Jia-Yu Pan. Fast Random Walk with Restart and Its Application. ICDM 2006. Longer version (Technical report).
 * Page, Lawrence and Brin, Sergey and Motwani, Rajeev and Winograd, Terry (1999). The PageRank Citation Ranking: Bringing Order to the Web. Technical Report. Stanford InfoLab. 
 * Taher H. Haveliwala. Topic-Sensitive PageRank: A Context-Sensitive Ranking Algorithm for Web Search. IEEE Transactions on Knowledge and Data Engineering, 15(4):784-796, 2003.
 * Jon M. Kleinberg. Authoritative Sources in a Hyperlinked Environment. Journal of the ACM (JACM), 46(5):604-632, 1999.
-* Peter Doyle and James Laurie Snell. Random Walks and Electric Networks, volume 22. Mathematical Association America, New York, 1984. Book.
+* Peter Doyle and James Laurie Snell. Random Walks and Electric Networks, volume 22. Mathematical Association America, New York, 1984.
 
 ## Node Classification: Belief Propagation
 
@@ -41,8 +41,8 @@
 ## Node Classification: Semi-Supervised Learning
 
 * Avrim Blum and Shuchi Chawla. Learning from Labeled and Unlabeled Data Using Graph Mincuts. In Proceedings of the 18th International Conference on Machine Learning, pages 19–26. Morgan Kaufmann, San Francisco, CA, 2001.
-* Dengyong Zhou, Bernhard Schölkopf, Thomas Hofmann. Semi-supervised Learning on Directed Graphs. NIPS 2004: 1633-1640
-* Xiaojin Zhu. Semi-Supervised Learning Literature Survey, 2006. Survey.
+* Dengyong Zhou, Bernhard Schölkopf, Thomas Hofmann. Semi-supervised Learning on Directed Graphs. NIPS 2004: 1633-1640.
+* Xiaojin Zhu. Semi-Supervised Learning Literature Survey, 2006.
 
 ## Node Similarity
 
@@ -70,7 +70,7 @@
 
 * M. E. J. Newman and M. Girvan, Finding and evaluating community structure in networks, Physical Review E, vol. 69, p. 026113, 2004.
 * J. Ugander, Lars Backstrom. Balanced Label Propagation for Partitioning Massive Graphs. In Proceedings of the sixth ACM international conference on Web search and data mining (WSDM '13). ACM, New York, NY, USA, 507-516.
-* Jialu Liu, Chi Wang, Marina Danilevsky, Jiawei Han. Large-Scale Spectral Clustering on Graphs. IJCAI 2013
+* Jialu Liu, Chi Wang, Marina Danilevsky, Jiawei Han. Large-Scale Spectral Clustering on Graphs. IJCAI 2013.
 * J. Leskovec, K. Lang, M. Mahoney. Empirical Comparison of Algorithms for Network Community Detection. In Proc. WWW, 2010.
 * Isabelle Stanton and Gabriel Kliot. Streaming graph partitioning for large distributed graphs. In Proceedings of the 18th ACM SIGKDD international conference on Knowledge discovery and data mining (KDD '12). ACM, New York, NY, USA, 1222-1230.
 * Charalampos Tsourakakis, Christos Gkantsidis, Bozidar Radunovic, and Milan Vojnovic. 2014. FENNEL: streaming graph partitioning for massive scale graphs. In Proceedings of the 7th ACM international conference on Web search and data mining (WSDM '14). ACM, New York, NY, USA, 333-342.
@@ -93,18 +93,18 @@
 * Neil Shah, Danai Koutra, Tianmin Zou, Brian Gallagher, Christos Faloutsos. TimeCrunch: Interpretable Dynamic Graph Summarization. Conference on Knowledge Discovery and Data Mining (KDD), August 2015.
 * Diane J. Cook and Lawrence B. Holder. Substructure Discovery Using Minimum Description Length and Background Knowledge. Journal of Artificial Intelligence Research, 1:231-255, 1994.
 * Nikhil S. Ketkar, Lawrence B. Holder, and Diane J. Cook. 2005. Subdue: compression-based frequent pattern discovery in graph data. In Proceedings of the 1st international workshop on open source data mining: frequent pattern mining implementations (OSDM '05).
-* S. Navlakha, R. Rastogi, and N. Shrivastava, Graph summarization with bounded error, in SIGMOD. ACM, 2008, pp. 419-432
+* S. Navlakha, R. Rastogi, and N. Shrivastava, Graph summarization with bounded error, in SIGMOD. ACM, 2008, pp. 419-432.
 * Y. Tian, R. A. Hankins, and J. M. Patel, Efficient aggregation for graph summarization. in SIGMOD, 2008, pp. 567-580.
 
 ## Anomaly Detection
 
-* Leman Akoglu, Hanghang Tong, Danai Koutra. Graph-based Anomaly Detection and Description: A Survey. Data Mining and Knowledge Discovery (DAMI), April 2014. Survey.
+* Leman Akoglu, Hanghang Tong, Danai Koutra. Graph-based Anomaly Detection and Description: A Survey. Data Mining and Knowledge Discovery (DAMI), April 2014.
 * Bryan Perozzi, Leman Akoglu, Patricia Iglesias Sánchez, and Emmanuel Müller. 2014. Focused clustering and outlier detection in large attributed graphs. In Proceedings of the 20th ACM SIGKDD international conference on Knowledge discovery and data mining (KDD '14).
 * Caleb C. Noble and Diane J. Cook. 2003. Graph-based anomaly detection. In Proceedings of the ninth ACM SIGKDD international conference on Knowledge discovery and data mining (KDD '03). ACM, New York, NY, USA, 631-636.
 * Jay-Yoon Lee, U Kang, Danai Koutra, Christos Faloutsos. Fast anomaly detection despite the duplicates. WWW 2013, Rio de Janeiro, Brazil, May 2013.
 * Deepayan Chakrabarti. 2004. AutoPart: parameter-free graph partitioning and outlier detection. In Proceedings of the 8th European Conference on Principles and Practice of Knowledge Discovery in Databases (PKDD '04).
 * Markus M. Breunig, Hans-Peter Kriegel, Raymond T. Ng, and Jörg Sander. 2000. LOF: identifying density-based local outliers. SIGMOD Rec. 29, 2 (May 2000), 93-104.
-* Danai Koutra, Di Jin, Yuanchi Ning, Christos Faloutsos. Perseus: An Interactive Large-Scale Graph Mining and Visualization Tool. Proceedings of the VLDB Endowment (VLDB'15 Demo), August 2015
+* Danai Koutra, Di Jin, Yuanchi Ning, Christos Faloutsos. Perseus: An Interactive Large-Scale Graph Mining and Visualization Tool. Proceedings of the VLDB Endowment (VLDB'15 Demo), August 2015.
 * U Kang, Jay-Yoon Lee, Danai Koutra, Christos Faloutsos. Net-Ray: Visualizing and Mining Web-Scale Graphs. PAKDD 2014, Tainan, Taiwan, May 2014.
 * Jimeng Sun, Yinglian Xie, Hui Zhang, and Christos Faloutsos. 2008. Less is More: Sparse Graph Mining with Compact Matrix Decomposition. Stat. Anal. Data Min. 1, 1 (February 2008), 6-22.
 * Jimeng Sun, Dacheng Tao, and Christos Faloutsos. 2006. Beyond streams and graphs: dynamic tensor analysis. In Proceedings of the 12th ACM SIGKDD international conference on Knowledge discovery and data mining (KDD '06).
@@ -128,19 +128,19 @@
 ## Deep learning for graphs
 
 * Bryan Perozzi, Rami Al-Rfou, and Steven Skiena. 2014. DeepWalk: online learning of social representations. In Proceedings of the 20th ACM SIGKDD international conference on Knowledge discovery and data mining (KDD '14).
-* Fei Tian, Bin Gao, Qing Cui, Enhong Chen, Tie-Yan Liu. Learning Deep Representations for Graph Clustering. AAAI 2014: 1293-1299
+* Fei Tian, Bin Gao, Qing Cui, Enhong Chen, Tie-Yan Liu. Learning Deep Representations for Graph Clustering. AAAI 2014: 1293-1299.
 
 ## Recommendation Systems
 
 * Badrul Sarwar, George Karypis, Joseph Konstan, and John Riedl. 2001. Item-based collaborative filtering recommendation algorithms. In Proceedings of the 10th international conference on World Wide Web (WWW '01). ACM, New York, NY, USA, 285-295.
 * Xiao Yu, Xiang Ren, Yizhou Sun, Quanquan Gu, Bradley Sturt, Urvashi Khandelwal, Brandon Norick, and Jiawei Han. Personalized entity recommendation: a heterogeneous information network approach. In Proceedings of the 7th ACM international conference on Web search and data mining (WSDM '14). ACM, New York, NY, USA, 283-292.
-* Paul Resnick and Hal R. Varian. 1997. Recommender systems. Commun. ACM 40, 3 (March 1997), 56-58.3410 citations.
-* Robin Burke. Hybrid Recommender Systems: Survey and Experiments.User Modeling and User-Adapted Interaction 12, 4 (November 2002), 331-370. 2567 citations.
+* Paul Resnick and Hal R. Varian. 1997. Recommender systems. Commun. ACM 40, 3 (March 1997), 56-58.
+* Robin Burke. Hybrid Recommender Systems: Survey and Experiments.User Modeling and User-Adapted Interaction 12, 4 (November 2002), 331-370.
 
 ## Large-scale social science
 
-* C. Danescu-Niculescu-Mizil, R. West, D. Jurafsky, J. Leskovec, C. Potts.No Country for Old Members: User lifecycle and linguistic change in online communities. ACM International Conference on World Wide Web (WWW), 2013. Best paper award.
-* A. Anderson, D. Huttenlocher, J. Kleinberg, J. Leskovec. Engaging with Massive Online Courses. ACM International Conference on World Wide Web (WWW), 2014. Best paper runner-up.
+* C. Danescu-Niculescu-Mizil, R. West, D. Jurafsky, J. Leskovec, C. Potts.No Country for Old Members: User lifecycle and linguistic change in online communities. ACM International Conference on World Wide Web (WWW), 2013.
+* A. Anderson, D. Huttenlocher, J. Kleinberg, J. Leskovec. Engaging with Massive Online Courses. ACM International Conference on World Wide Web (WWW), 2014.
 * J. McAuley, J. Leskovec. Discovering Social Circles in Ego Networks. ACM Transactions on Knowledge Discovery from Data (TKDD), 2014.
 * L. Backstrom, J. Kleinberg. Romantic Partnerships and the Dispersion of Social Ties: A Network Analysis of Relationship Status on Facebook. Proc. 17th ACM Conference on Computer Supported Cooperative Work and Social Computing (CSCW), 2014.
 * L Backstrom, P Boldi, M Rosa, J Ugander, S Vigna. Four Degrees of Separation. Proc. 4th ACM Int'l Conf. on Web Science (WebSci), 2012. Best Paper Award.
