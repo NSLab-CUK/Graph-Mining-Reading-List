@@ -149,8 +149,8 @@
 
 ## Social Network Analysis
 
-R. Albert, H. Jeong, and A.-L. Barabási. Diameter of the World Wide Web Nature, 401, 130-131 (1999).
-Haveliwala, Taher H. (2003) Topic-Sensitive PageRank: A Context-Sensitive Ranking Algorithm for Web Search. Technical Report. Stanford InfoLab. (Extended version of the WWW2002 paper on Topic-Sensitive PageRank.)
-D. Chakrabarti, S. Papadimitriou, and D. Modha and C. Faloutsos. Fully Automatic Cross-Associations, in KDD 2004 (pages 79-88), Washington, USA
-Hanghang Tong and Christos Faloutsos. Center-Piece Subgraphs: Problem Definition and Fast Solutions, KDD 2006, Philadelphia, PA
+* R. Albert, H. Jeong, and A.-L. Barabási. Diameter of the World Wide Web Nature, 401, 130-131 (1999).
+* Haveliwala, Taher H. (2003) Topic-Sensitive PageRank: A Context-Sensitive Ranking Algorithm for Web Search. Technical Report. Stanford InfoLab. (Extended version of the WWW2002 paper on Topic-Sensitive PageRank.)
+* D. Chakrabarti, S. Papadimitriou, and D. Modha and C. Faloutsos. Fully Automatic Cross-Associations, in KDD 2004 (pages 79-88), Washington, USA
+* Hanghang Tong and Christos Faloutsos. Center-Piece Subgraphs: Problem Definition and Fast Solutions, KDD 2006, Philadelphia, PA
 
